@@ -1,0 +1,11 @@
+Extract result from src/FileAnalysis/poem.txt
+
+1442240439.565435
+
+Mon Sep 14 22:20:39 2015
+
+2015-09-14 22:20:39.09
+
+Programming is fun
+
+
